@@ -27,8 +27,3 @@ mv *mp4 Videos
 mv *avi Videos
 mv *mpeg Videos
 mv *wmv Videos
-
-
-echo "All files moved to their respective directories"
-mkdir Scripts
-mv *sh Scripts
